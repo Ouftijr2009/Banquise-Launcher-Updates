@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "required": false,
-  "message": "Fenêtre plus grande et redimensionnable pour afficher tous les boutons.",
-  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.1/Banquise.Launcher.Installer.exe",
-  "sha256": "195468f25fcbec4957de12523f46d7473a86798ecfe9a5c89d46dccde7480e53"
+  "message": "La synchronisation des mods utilise maintenant le dépôt Banquise-Mods séparé du code du launcher.",
+  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.2/Banquise.Launcher.Installer.exe",
+  "sha256": "5d65ff6271fd4538b8751d65da85b2bb279fdd0723025d8d7fd7f7b997de2e95"
 }
