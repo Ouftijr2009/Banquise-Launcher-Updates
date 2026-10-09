@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "required": false,
-  "message": "La synchronisation des mods utilise maintenant le dépôt Banquise-Mods séparé du code du launcher.",
-  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.2/Banquise.Launcher.Installer.exe",
-  "sha256": "5d65ff6271fd4538b8751d65da85b2bb279fdd0723025d8d7fd7f7b997de2e95"
+  "message": "Refonte de l'aspect visuelle",
+  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.3/Banquise.Launcher.Installer.exe",
+  "sha256": "0811c2832b915cd97778b4bdb5a6124d87f2394eb78ce7c1553a0c1ac91be84f"
 }
