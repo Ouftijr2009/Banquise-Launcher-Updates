@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "required": false,
-  "message": "Refonte de l'aspect visuelle",
-  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.3/Banquise.Launcher.Installer.exe",
-  "sha256": "0811c2832b915cd97778b4bdb5a6124d87f2394eb78ce7c1553a0c1ac91be84f"
+  "message": "Correction du systeme de mise à jour",
+  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.4/Banquise.Launcher.Installer.exe",
+  "sha256": "8bbbf4636dbfb44d3759461a068cbeb2c42153d15b0c9a33439e5c2e4f27a8a4"
 }
