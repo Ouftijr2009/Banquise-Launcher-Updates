@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "required": true,
   "message": "Correction du systeme de mise à jour",
-  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.6/Banquise.Launcher.Installer.exe",
-  "sha256": "e928de62b4d8066289ce9da4d1c344b0ac46688b0acdf4ded10de011fcc42823"
+  "installer_url": "https://github.com/Ouftijr2009/Banquise-Launcher-Updates/releases/download/v1.0.7/Banquise.Launcher.Installer.exe",
+  "sha256": "4d7b96323215ef06a9eaef8705a81d19a352bc1316becd25628fa993b98d2931"
 }
